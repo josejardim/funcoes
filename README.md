@@ -1,7 +1,5 @@
 # Funções
 
-Funções
-
 Projetos referentes ao curso "Funções" que estudei pela Digital Innovation One.
 
 # Atividade 1: Alunos Aprovados
